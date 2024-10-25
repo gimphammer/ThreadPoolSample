@@ -1,0 +1,1 @@
+This codebase if for android platform
